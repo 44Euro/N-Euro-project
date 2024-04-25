@@ -1,0 +1,296 @@
+{
+  "user": [
+    {
+      "id": "manager01",
+      "password": "1234",
+      "name": "manager",
+      "sName": "eiei",
+      "phone": "0918288413",
+      "gender": "male",
+      "bDay": "2024-04-10",
+      "email": "manager01@gmail.com"
+    },
+    {
+      "id": "employee01",
+      "password": "1234",
+      "name": "employee",
+      "sName": "01",
+      "phone": "1234566",
+      "gender": "male",
+      "bDay": "2024-04-07",
+      "email": "employee01@gmail.com"
+    },
+    {
+      "id": "user01",
+      "password": "1234",
+      "name": "Somchay",
+      "sName": "Jaidee",
+      "phone": "9999999999",
+      "gender": "male",
+      "bDay": "2024-04-11",
+      "email": "somchai@gmail.com"
+    },
+    {
+      "id": "user02",
+      "password": "1234",
+      "name": "AB",
+      "sName": "CD",
+      "phone": "1234566",
+      "gender": "male",
+      "bDay": "2024-04-07",
+      "email": "manager02@gmail.com"
+    }
+  ],
+  "promotion": [
+    {
+      "id": "1",
+      "detail": "Birthday discount 20%",
+      "category": "Discount",
+      "exp": "2024-01-12"
+    },
+    {
+      "id": "2",
+      "detail": "Hot green tea buy 1 get 1 free",
+      "category": "Buy 1 get 1 free",
+      "exp": "2024-01-12"
+    },
+    {
+      "id": "3",
+      "detail": "Like page 10%",
+      "category": "Discount",
+      "exp": "2024-01-12"
+    }
+  ],
+  "report": [
+    {
+      "id": "December",
+      "year": "2024"
+    },
+    {
+      "id": "March",
+      "year": "2024"
+    },
+    {
+      "id": "January",
+      "year": "2023"
+    },
+    {
+      "id": "August",
+      "year": "2023"
+    }
+  ],
+  "menu": [
+    {
+      "id": "Spaghetti Carbonara",
+      "price": 189
+    },
+    {
+      "id": "Spaghetti Bolognese",
+      "price": 199
+    },
+    {
+      "id": "Pizza Ham Bacon",
+      "price": 129
+    },
+    {
+      "id": "Pizza Seafood",
+      "price": 139
+    },
+    {
+      "id": "Thai Tea",
+      "price": 55
+    },
+    {
+      "id": "Matcha",
+      "price": 55
+    },
+    {
+      "id": "Sugarcane Coffee",
+      "price": 60
+    }
+  ],
+  "table": [
+    {
+      "id": "1",
+      "isFree": true,
+      "position": "Indoor",
+      "size": 2
+    },
+    {
+      "id": "2",
+      "isFree": true,
+      "position": "Indoor",
+      "size": 2
+    },
+    {
+      "id": "3",
+      "isFree": true,
+      "position": "Outdoor",
+      "size": 2
+    },
+    {
+      "id": "4",
+      "isFree": true,
+      "position": "Outdoor",
+      "size": 4
+    },
+    {
+      "id": "5",
+      "isFree": true,
+      "position": "Indoor",
+      "size": 3
+    },
+    {
+      "id": "6",
+      "isFree": true,
+      "position": "Indoor",
+      "size": 4
+    },
+    {
+      "id": "7",
+      "isFree": true,
+      "position": "Indoor",
+      "size": 2
+    },
+    {
+      "id": "8",
+      "isFree": true,
+      "position": "Indoor",
+      "size": 4
+    },
+    {
+      "id": "9",
+      "isFree": true,
+      "position": "Indoor",
+      "size": 4
+    },
+    {
+      "id": "10",
+      "isFree": true,
+      "position": "Indoor",
+      "size": 2
+    },
+    {
+      "id": "11",
+      "isFree": true,
+      "position": "Indoor",
+      "size": 4
+    },
+    {
+      "id": "12",
+      "isFree": true,
+      "position": "Indoor",
+      "size": 3
+    },
+    {
+      "id": "13",
+      "isFree": true,
+      "position": "Indoor",
+      "size": 2
+    },
+    {
+      "id": "14",
+      "isFree": true,
+      "position": "Indoor",
+      "size": 2
+    },
+    {
+      "id": "15",
+      "isFree": true,
+      "position": "Outdoor",
+      "size": 2
+    },
+    {
+      "id": "16",
+      "isFree": true,
+      "position": "Outdoor",
+      "size": 4
+    },
+    {
+      "id": "17",
+      "isFree": true,
+      "position": "Outdoor",
+      "size": 4
+    },
+    {
+      "id": "18",
+      "isFree": true,
+      "position": "Outdoor",
+      "size": 4
+    },
+    {
+      "id": "19",
+      "isFree": true,
+      "position": "Outdoor",
+      "size": 2
+    },
+    {
+      "id": "20",
+      "isFree": true,
+      "position": "Outdoor",
+      "size": 2
+    },
+    {
+      "id": "21",
+      "isFree": true,
+      "position": "Outdoor",
+      "size": 2
+    },
+    {
+      "id": "22",
+      "isFree": true,
+      "position": "Outdoor",
+      "size": 2
+    },
+    {
+      "id": "23",
+      "isFree": true,
+      "position": "Outdoor",
+      "size": 4
+    },
+    {
+      "id": "24",
+      "isFree": true,
+      "position": "Outdoor",
+      "size": 4
+    },
+    {
+      "id": "25",
+      "isFree": true,
+      "position": "Outdoor",
+      "size": 4
+    },
+    {
+      "id": "26",
+      "isFree": true,
+      "position": "Outdoor",
+      "size": 2
+    },
+    {
+      "id": "27",
+      "isFree": true,
+      "position": "Outdoor",
+      "size": 2
+    },
+    {
+      "id": "28",
+      "isFree": true,
+      "position": "Outdoor",
+      "size": 4
+    },
+    {
+      "id": "29",
+      "isFree": true,
+      "position": "Outdoor",
+      "size": 4
+    },
+    {
+      "id": "30",
+      "isFree": true,
+      "position": "Outdoor",
+      "size": 4
+    }
+  ],
+  "orders": [],
+  "reserve": []
+}

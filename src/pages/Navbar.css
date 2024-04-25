@@ -1,0 +1,42 @@
+.container-navbar {
+    display: block;
+    width: 250px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    /* Adjust the value to change the curvature */
+}
+
+
+.profile {
+    display: flex;
+    align-items: center;
+}
+
+.menu {
+    padding-left: 10px;
+}
+
+.menu-1 {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.link {
+    text-decoration: none;
+    /* Remove underline */
+    color: inherit;
+    /* Use the default text color */
+    transition: background-color 0.3s;
+    /* Smooth transition */
+    margin-left: 10px;
+}
+
+.menu-1:hover {
+    background-color: #f0f0f0;
+    /* Change background color on hover */
+}
+
+.userData {
+    font-size: 14px; /* Adjust the font size as needed */
+}

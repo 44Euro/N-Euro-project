@@ -1,0 +1,11 @@
+.report thead tr:nth-child(2) td,
+.report thead tr:nth-child(3) td {
+  text-align: center;
+}
+
+
+.report {
+    width: 80%;
+    margin-top: 30px;
+  }
+  
